@@ -49,7 +49,7 @@ namespace Nuclear_Reactor
 
             //change the colour of the state labels and output message 
 
-            reactor1StateLabel.BackColor = Color.White;
+            reactor1StateLabel.BackColor = Color.Black;
 
             reactor2StateLabel.BackColor = Color.White;
 
